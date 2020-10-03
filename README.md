@@ -37,9 +37,9 @@ ampr(
 
 # dependency
 * Distributions.jl
-* GLMNet.jl
+* GLMNet.jl, CSV.jl
     - 実験で使っている
-* Plots, LaTeXStrings
+* Plots, LaTeXStrings, Colors
     - 実験結果の可視化に利用している
 
 
